@@ -16,10 +16,10 @@ switch (_vehicle) do
 	{
 		switch (_index) do
 		{	
-			case 0: {_color = "Gerät"}
+			case 0: {_color = "Baufahrzeug";};
 		};
 	};
-			
+	
 	case "C_Offroad_01_F" :
 	{
 		switch (_index) do

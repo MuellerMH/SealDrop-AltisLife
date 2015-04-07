@@ -18,8 +18,8 @@ player setVariable["restrained",false,true];
 player setVariable["Escorting",false,true];
 player setVariable["transporting",false,true];
 
-titleText["You have been arrested, wait your time out. If you attempt to respawn or reconnect your time will increase!","PLAIN"];
-hint "For being arrested you have lost the following licenses if you own them\n\nFirearms License\nRebel License";
+titleText["Du wurdest ins Gefängnis gebracht. Das Respawnen und leaven ändert nichts an der dauer des Aufenthalts!","PLAIN"];
+hint "Die Beamten haben dir jegliche illegalen Lizensen abgenommen.";
 player setPos (getMarkerPos "jail_marker");
 
 if(_bad) then
@@ -46,6 +46,7 @@ if(life_inv_methu > 0) then {[false,"methu",life_inv_methu] call life_fnc_handle
 if(life_inv_methp > 0) then {[false,"methp",life_inv_methp] call life_fnc_handleInv;};
 if(life_inv_bottledwhiskey > 0) then {[false,"bottledwhiskey",life_inv_bottledwhiskey] call life_fnc_handleInv;};
 if(life_inv_bottledbeer > 0) then {[false,"bottledbeer",life_inv_bottledbeer] call life_fnc_handleInv;};
+if(life_inv_bottledbeer > 0) then {[false,"rebel",life_inv_rebel] call life_fnc_handleInv;};
 life_is_arrested = true;
 
 removeAllItems player;

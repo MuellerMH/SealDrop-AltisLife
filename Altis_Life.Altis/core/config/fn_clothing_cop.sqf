@@ -127,7 +127,6 @@ switch (_filter) do
 		};
 		if(__GETC__(life_coplevel) > 2) then
 		{
-			_ret set[count _ret,["B_UAV_01_backpack_F",nil,1000]];
 			_ret set[count _ret,["B_Bergen_sgg",nil,1250]];
 			_ret set[count _ret,["B_Carryall_cbr",nil,1500]];
 		};

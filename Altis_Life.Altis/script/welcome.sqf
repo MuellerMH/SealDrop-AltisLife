@@ -18,13 +18,13 @@ _role1names = ["Death-Watch"];
 _role2 = "Server Inhaber";
 _role2names = ["IIICujoIII"];
 _role3 = "Map Edit by";
-_role3names = ["Andre"];
+_role3names = ["\m/ Andre \m/"];
 _role4 = "Offizieller TeamSpeak";
 _role4names = ["DeathWatch.nitrado.net"];
 _role8 = "Offizielles Forum";
 _role8names = ["http://death-watch.de/"];
  _role9 = "Server Restarts";
-_role9names = ["0:00,6:00,12:00,18:00,"];
+_role9names = ["0:00Uhr,6:00Uhr,12:00Uhr,18:00Uhr,"];
 
 {
 sleep 2;

@@ -11,6 +11,8 @@ if(isNull _house OR _uid == "") exitWith {};
 
 _housePos = getPosATL _house;
 
+if(_uid == "99999999999999999999999999") exitWith {};
+
 _query = format["INSERT INTO houses (pid, pos, inventory, containers, owned) VALUES('%1', '%2', '""[[],0]""', '""[]""', '1')",_uid,_housePos];
 diag_log format["Query: %1",_query];
 waitUntil{!DB_Async_Active};

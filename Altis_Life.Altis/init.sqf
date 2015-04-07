@@ -40,5 +40,3 @@ MAC_fnc_switchMove = {
     _object switchMove _anim;
     
 };
-
-[] execVM "AdminTool\loop.sqf";

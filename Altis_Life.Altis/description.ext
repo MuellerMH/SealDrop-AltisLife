@@ -1,3 +1,4 @@
+#include "infiSTAR_AdminMenu.hpp"
 author = "";
 onLoadName = "٠٠•● Death-Watch ●•٠";
 onLoadMission = "• A RPG by SealDrop •";

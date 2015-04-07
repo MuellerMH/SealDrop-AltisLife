@@ -106,7 +106,7 @@ switch (_vehicle) do
 			["\a3\soft_f_gamma\SUV_01\Data\suv_01_ext_04_co.paa","civ"],
 			["#(ai,64,64,1)Fresnel(1.3,7)","cop"],
 			[_path + "medic_suv.jpg","med"],
-			[_path + "poly_suv.jpg","civ"],
+			[_path + "poly_suv.paa","civ"],
 			[_path + "camo_suv.jpg","civ"],
 			[_path + "civ_suv_monster.jpg","civ"],
 			[_path + "carbon_suv.jpg","cop"],
@@ -264,6 +264,7 @@ switch (_vehicle) do
 			[_path + "swat_ghosthawk.jpg","cop",_path + "swat_ghosthawk_1.jpg"]
 		];
 	};
+	
 	case "B_Truck_01_box_F":
 	{
 		_path = "skins\car\";
@@ -273,6 +274,7 @@ switch (_vehicle) do
 			[_path + "civ_hemtt_kitty_0.jpg","civ",_path + "civ_hemtt_kitty_1.jpg"]
 		];
 	};
+	
 	case "B_Truck_01_transport_F":
 	{
 		_path = "skins\car\";
@@ -283,6 +285,7 @@ switch (_vehicle) do
 			[_path + "adac_hemtt.paa","med"]
 		];
 	};
+	
 	case "B_Truck_01_covered_F":
 	{
 		_path = "skins\car\";
@@ -292,6 +295,7 @@ switch (_vehicle) do
 			[_path + "civ_hemtt_kitty_0.jpg","civ",_path + "civ_hemtt_kitty_1.jpg"]
 		];
 	};
+	
 	case "B_Truck_01_ammo_F":
 	{
 		_path = "skins\car\";
@@ -301,6 +305,7 @@ switch (_vehicle) do
 			[_path + "civ_hemtt_kitty_0.jpg","civ",_path + "civ_hemtt_kitty_1.jpg"]
 		];
 	};
+	
 	case "O_Truck_03_device_F":
 	{
 		_path = "skins\car\";

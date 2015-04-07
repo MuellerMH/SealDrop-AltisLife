@@ -63,7 +63,7 @@ life_use_atm = false;
 sleep (30 + random(180));
 life_use_atm = true;
 if!(alive _robber) exitWith {};
-[[getPlayerUID _robber,name _robber,"211"],"life_fnc_wantedAdd",false,false] spawn life_fnc_MP;
+[[getPlayerUID _robber,name _robber,"33"],"life_fnc_wantedAdd",false,false] spawn life_fnc_MP;
 };
 sleep 300;
 _action = _shop addAction["Rob the Gas Station",life_fnc_robShops];	
