@@ -5,12 +5,17 @@
 	Description:
 	Main functionality for gathering.
 */
+
 if(isNil "life_action_gathering") then {life_action_gathering = false;};
+if(isNil "life_action_inUse") then {life_action_inUse = false;};
+
 private["_gather","_itemWeight","_diff","_itemName","_val","_resourceZones","_zone"];
 _resourceZones = ["apple_1","apple_2","apple_3","apple_4","peaches_1","peaches_2","peaches_3","peaches_4","heroin_1","cocaine_1","cocaine_2","weed_1","grape_1","rye_1","yeast_1","hops_1","meth_1"];
 _zone = "";
 
 if(life_action_gathering) exitWith {}; //Action is in use, exit to prevent spamming.
+if(life_action_inUse) exitWith {}; //Action is in use, exit to prevent spamming.
+
 life_action_gathering = true;
 //Find out what zone we're near
 {
