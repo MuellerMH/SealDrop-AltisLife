@@ -38,7 +38,7 @@ switch (_type) do
 	case "meth": {65000}; //Meth Lizenz
 	case "medic": {10000}; //Medic Ausbildung
 	case "mair": {15000}; //Maische
-	case "home": {500000}; //Home Lizenz
+	case "home": {5000000}; //Home Lizenz
 	case "adac": {10000}; //ADAC Lizenz
 	case "stiller":{25000}; //Abfüller
 	case "liquor":{50000}; //Desti

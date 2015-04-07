@@ -1,6 +1,6 @@
 /*
 	File: welcome.sqf
-	Author: TheTotenkopf
+	Author: IIICujoIII
 	Date: 26.6.2014
 */
 
@@ -14,17 +14,17 @@ playSound "welcome";
 _onScreenTime = 2;
 
 _role1 = "Willkommen bei";
-_role1names = ["S E A L D R O P"];
+_role1names = ["Death-Watch"];
 _role2 = "Server Inhaber";
-_role2names = ["ADMIN_NAMEN"];
+_role2names = ["IIICujoIII"];
 _role3 = "Map Edit by";
-_role3names = ["TheTotenkopf"];
+_role3names = ["Andre"];
 _role4 = "Offizieller TeamSpeak";
-_role4names = ["TS_NAME"];
+_role4names = ["DeathWatch.nitrado.net"];
 _role8 = "Offizielles Forum";
-_role8names = ["FORUM_NAME"];
+_role8names = ["http://death-watch.de/"];
  _role9 = "Server Restarts";
-_role9names = ["0,6,9,12,15,18,21"];
+_role9names = ["0:00,6:00,12:00,18:00,"];
 
 {
 sleep 2;

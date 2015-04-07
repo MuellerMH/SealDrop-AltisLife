@@ -42,6 +42,7 @@ life_request_timer = false;
 life_markers = false;
 life_sitting = false;
 life_firstSpawn = false;
+life_fadeSound = false;
 
 
 //Persistent Saving

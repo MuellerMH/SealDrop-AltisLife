@@ -336,7 +336,7 @@ switch(_shop) do
 						["optic_ACO_grn_smg",nil,750],
 						["hgun_pistol_heavy_01_F",nil,6000],
 						["optic_MRCO",nil,10000],
-						["ToolKit",nil,50],
+						["ToolKit",nil,50000],
 						["NVGoggles",nil,350],
 						["Rangefinder",nil,5000],
 						["itemgps",nil,50],
@@ -359,7 +359,7 @@ switch(_shop) do
 						["optic_ACO_grn_smg",nil,750],
 						["optic_MRCO",nil,10000],
 						["NVGoggles",nil,350],
-						["ToolKit",nil,100],
+						["ToolKit",nil,50000],
 						["itemGPS",nil,100],
 						["FirstAidKit",nil,25],
 						["Rangefinder",nil,5000],
@@ -421,7 +421,7 @@ switch(_shop) do
 				["ItemMap",nil,50],
 				["ItemCompass",nil,50],
 				["ItemWatch",nil,50],
-				["ToolKit",nil,250],
+				["ToolKit",nil,50000],
 				["FirstAidKit",nil,150],
 				["NVGoggles",nil,1500],
 				["Chemlight_red",nil,300],
@@ -442,7 +442,7 @@ switch(_shop) do
             {
                 ["Uran Verkäufer",
                     [
-                        ["ToolKit",nil,200],
+                        ["ToolKit",nil,50000],
                         ["FirstAidKit",nil,100],
                         ["U_I_HeliPilotCoveralls","Anti-Strahlungs Anzug",50000]
                     ]

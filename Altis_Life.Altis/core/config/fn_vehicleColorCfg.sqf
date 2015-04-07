@@ -279,7 +279,8 @@ switch (_vehicle) do
 		_ret =
 		[
 			[_path + "civ_hemtt_devil_0.jpg","civ",_path + "civ_hemtt_devil_1.jpg"],
-			[_path + "civ_hemtt_kitty_0.jpg","civ",_path + "civ_hemtt_kitty_1.jpg"]
+			[_path + "civ_hemtt_kitty_0.jpg","civ",_path + "civ_hemtt_kitty_1.jpg"],
+			[_path + "adac_hemtt.paa","med"]
 		];
 	};
 	case "B_Truck_01_covered_F":
@@ -298,6 +299,14 @@ switch (_vehicle) do
 		[
 			[_path + "civ_hemtt_devil_0.jpg","civ",_path + "civ_hemtt_devil_1.jpg"],
 			[_path + "civ_hemtt_kitty_0.jpg","civ",_path + "civ_hemtt_kitty_1.jpg"]
+		];
+	};
+	case "O_Truck_03_device_F":
+	{
+		_path = "skins\car\";
+		_ret =
+		[
+			[_path + "baufahrzeug_tempest_teil1.paa","civ",_path + "baufahrzeug_tempest_teil2.paa"]
 		];
 	};
 };

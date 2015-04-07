@@ -12,6 +12,14 @@ _color = "";
 
 switch (_vehicle) do
 {
+	case "O_Truck_03_device_F" :
+	{
+		switch (_index) do
+		{	
+			case 0: {_color = "Gerät"}
+		};
+	};
+			
 	case "C_Offroad_01_F" :
 	{
 		switch (_index) do
@@ -271,6 +279,7 @@ switch (_vehicle) do
 		{
 			case 0: {_color = "Devil"};
 			case 1: {_color = "Hello Kitty"};
+			case 2: {_color = "ADAC"};
 		};
 	};
 	case "B_Truck_01_covered_F":

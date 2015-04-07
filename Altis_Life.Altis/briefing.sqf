@@ -25,16 +25,17 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Official Change Log",
 				"
-					Alle Änderungen stehen im Forum: HOMEPAGE_URL
+					Alle Änderungen stehen im Forum:  http://death-watch.de/
+
 				"
 		]
 	];
 	
 	player createDiaryRecord["changelog",
 		[
-			"SealDrop Changelog",
+			"Death-Watch Changelog",
 				"
-					Das Changelog kannst du unter HOMEPAGE_URL einsehen.
+					Das Changelog kannst du unter  http://death-watch.de/ einsehen.
 				"
 		]
 	];
@@ -43,7 +44,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Exploits", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -52,7 +53,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Safe Zones",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -62,7 +63,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Bannable Offenses", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -71,7 +72,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Cop Interaction", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -80,7 +81,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Boats", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -89,7 +90,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Aviation", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -98,7 +99,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Vehicles", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -107,7 +108,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Communication Rules", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -116,7 +117,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Random Deathmatching (RDM)", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -124,7 +125,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"New Life Rule", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -133,7 +134,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Don't Be A Dick!", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -143,7 +144,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Crisis Negotiation",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -151,7 +152,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"The Federal Reserve",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -159,7 +160,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Aviation",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>licopters cannot hover over the city. Cops may only hover over the city if there is an active police operation going on.<br/><br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -168,7 +169,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Illegal Areas", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -177,7 +178,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Patrolling", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -186,7 +187,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Checkpoints", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -195,7 +196,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Fahrzeuge", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -204,8 +205,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Geschwindigkeit", 
 				"
-				In Hauptstädten: 30<br/>
-				Hauptstraßen: 120Km/h<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -214,7 +214,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Zuordnung", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -223,7 +223,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Gefägnis und Tickets",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -232,10 +232,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Legale Waffen", 
 				"
-				Legalle Civ Waffen (Mit Waffenschein):<br/>
-				1. P07<br/>
-				3. ACP-C2<br/>
-				5. PDW2000<br/><br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -244,7 +241,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Einsatz von Waffen",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -253,7 +250,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Razzien",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -262,14 +259,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Rangkette",
 				"
-				Rangkette:<br/>
-				1. Rekruten<br/>
-				2. Polizisten<br/>
-				3. Polizeichef<br/>
-				4. SEK<br/>
-				5. GSG9<br/>
-				6. SEK-M<br/>
-				7. ADMINS<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -278,7 +268,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Sonstiges",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -288,7 +278,7 @@ player createDiarySubject ["controls","Steuerung"];
 			"Teamspeak Regeln",
 				"
 				1. Alle Polizisten müssen sich auf dem TeamSpeak befinden wärend sie als Polizist eingeloggt sind.<br/>
-				2. Alles weitere unter HOMEPAGE_URL zu finden<br/><br/>
+				2. Alles weitere unter  http://death-watch.de/ zu finden<br/><br/>
 				"
 		]
 	];
@@ -300,7 +290,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Rebellen Regeln",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -308,7 +298,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Gang Regeln",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -316,17 +306,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Illegale Fahrzeuge",
 				"
-				Fahrzuge mit + sind immer Illegal der Rest nur in Kavalla<br/><br/>
-
-				1. Ifrit<br/>
-				2. Speedboat<br/>
-				3. Hunter<br/>
-				4. Police Offroad+<br/>
-				5. Ifrit-HMG+<br/>
-				6. Hunter-HMG+<br/>
-				7. Strider<br/>
-				8. Polizei Hunter+<br/>
-				9. Polizei Limo+<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -334,18 +314,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Illegale Waffen",
 				"
-				1. MX Series<br/>
-				2. Katiba Series<br/>
-				3. TRG Series<br/>
-				4. Mk.20 Series<br/>
-				5. Mk.18 EBR<br/>
-				6. SDAR Rifle<br/>
-				7. Sting SMG<br/>
-				8. Silenced Rock40 (Tazer)<br/>
-				9. Sprengstoff<br/>
-				10. Zafir/Mk200<br/>
-				11. M320 LRR<br/>
-				12. Vermin ACP<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -353,17 +322,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Illegale Rohstoffe",
 				"
-				Die Folgenden Rohstoffe sind Illegal:<br/><br/>
-				1. Schildkröten<br/>
-				2. Kokain<br/>
-				3. Heroin<br/>
-				4. Cannabis<br/>
-				5. Marijuana<br/>
-				6. Meth<br/>
-				7. Moonshine<br/>
-				8. GoldBarren<br/>
-				9. Uran III<br/>
-				10. Nieren<br/>
+				Alle Regeln findest du in unserem Forum !  http://death-watch.de/!<br/>
 				"
 		]
 	];
@@ -373,7 +332,7 @@ player createDiarySubject ["controls","Steuerung"];
 
 	player createDiaryRecord ["controls",
 		[
-			"SealDrop Steuerung",
+			"Death-Watch Steuerung",
 				"
 				Z: Spieler Menü<br/>
 				U: Fahrzeuge auf/zuschließen<br/>
