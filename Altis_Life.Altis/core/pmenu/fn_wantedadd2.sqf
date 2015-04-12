@@ -25,7 +25,7 @@ lbClear _list2;
 //lbSetData [_list2, _index, "pfad/zum/bild.paa"];
 //lbSetValue [_list2, _index, "pfad/zum/bild.paa"];
 
-_text = "Unfälle mit Todesfolge ohne Meldung";
+_text = "Unfälle mit Todesfolge ohne Meldung €10000";
 _data = "187V";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
@@ -35,7 +35,7 @@ _data = "187";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Falschparken $10000";
+_text = "Falschparken €10000";
 _data = "901";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
@@ -91,17 +91,17 @@ _data = "480";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Fliegen ohne Pilotenschein €50000";
+_text = "Durch Befragung d. Drogenhändlers entlarvt €100000";
 _data = "481";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Fliegen ohne Kollisionslichter €10000";
+_text = "Drogenbesitz €50000";
 _data = "482";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Durch Befragung d. Drogenhändlers entlarvt",€100000";
+_text = "Fliegen ohne Pilotenschein €50000";
 _data = "483";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
@@ -116,12 +116,12 @@ _data = "390";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Fliegen unter der Mindesthöhe",€50000";
+_text = "Fliegen unter der Mindesthöhe €50000";
 _data = "1";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Drogenkonsum €50000";
+_text = "Fliegen ohne Kollisionslichter €10000";
 _data = "2";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
@@ -181,7 +181,7 @@ _data = "13";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Fahren auf der falschen Fahrbahn",€15000";
+_text = "Fahren auf der falschen Fahrbahn €15000";
 _data = "14";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];

@@ -62,13 +62,13 @@ switch (_shop) do
 	{
 		_return =
 		[
-			["C_Van_01_box_F",60000],
-			["I_Truck_02_transport_F",300000],
-			["I_Truck_02_covered_F",400000],
-			["B_Truck_01_transport_F",600000],
-			["B_Truck_01_covered_F",750000],
-			["B_Truck_01_box_F",1500000],
-			["O_Truck_03_device_F",10000000]
+			["C_Van_01_box_F",54000],
+			["I_Truck_02_transport_F",230000],
+			["I_Truck_02_covered_F",360000],
+			["B_Truck_01_transport_F",540000],
+			["B_Truck_01_covered_F",630000],
+			["B_Truck_01_box_F",1350000],
+			["O_Truck_03_device_F",9000000]
 		];	
 	};
 
@@ -235,7 +235,7 @@ switch (_shop) do
 		if(__GETC__(life_donator) == 3) then
 		{
 			_return set[count _return,
-			["B_Truck_01_covered_F",750000]];
+			["B_Truck_01_covered_F",630000]];
 			_return set[count _return,
 			["O_MRAP_02_F",3000000]];
 			_return set[count _return,
@@ -245,9 +245,9 @@ switch (_shop) do
 			_return set[count _return,
 			["B_Heli_Light_01_F",325000]];
 			_return set[count _return,
-			["B_Truck_01_box_F",1500000]];
+			["B_Truck_01_box_F",1350000]];
 			_return set[count _return,
-			["O_Truck_03_device_F",10000000]];
+			["O_Truck_03_device_F",9000000]];
 			_return set[count _return,
 			["C_Hatchback_01_sport_F",150000]];
 			_return set[count _return,

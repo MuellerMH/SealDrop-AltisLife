@@ -28,14 +28,14 @@ switch(_type) do
 	case "487": {_type = ["Geschwindigkeitsübertretungen ab 20 km/h",25000]};
 	case "488": {_type = ["Besitz einer illegalen Waffe oder Ausrüstung",50000]};
 	case "480": {_type = ["Fahrerflucht",50000]};
-	case "481": {_type = ["Fliegen ohne Pilotenschein",50000]};
-	case "482": {_type = ["Fliegen ohne Kollisionslichter",10000]};
-	case "483": {_type = ["Durch Befragung d. Drogenhändlers entlarvt",100000]};
+	case "481": {_type = ["Durch Befragung d. Drogenhändlers entlarvt",100000]};
+	case "482": {_type = ["Drogenbesitz",50000]};
+	case "483": {_type = ["Fliegen ohne Pilotenschein",50000]};
 	case "459": {_type = ["Landen mit Helis in Städten ohne Erlaubnis der Polizei",200000]};
 	case "390": {_type = ["Fliegen mit illegalen Flugobjekten",50000]};
 	
 	case "1": {_type = ["Fliegen unter der Mindesthöhe",50000]};
-    case "2": {_type = ["Drogenkonsum",50000]};
+    case "2": {_type = ["Fliegen ohne Kollisionslichter",10000]};
     case "3": {_type = ["Stehlen aus Rucksäcken & Autos",50000]};
     case "4": {_type = ["Versuchter Diebstahl eines Fahrzeuges",25000]};
     case "5": {_type = ["Diebstahl eines Fahrzeuges",50000]};

@@ -50,7 +50,7 @@ _unit spawn
 	round(_maxTime - time) <= 0 || isNull _this || Life_request_timer};
 	
 	if (Life_request_timer) then {
-		_maxTime = time + (life_respawn_timer * 120);
+		_maxTime = time + (life_respawn_timer * 360);
 		waitUntil {_Timer ctrlSetText format[localize "STR_Medic_Respawn",[(_maxTime - time),"MM:SS.MS"] call BIS_fnc_secondsToString]; 
 		round(_maxTime - time) <= 0 || isNull _this};
 	};
@@ -73,13 +73,13 @@ _unit spawn
 //Make the killer wanted
 if(!isNull _killer && {_killer != _unit} && {side _killer != west} && {alive _killer}) then {
 	if(vehicle _killer isKindOf "LandVehicle") then {
-		[[getPlayerUID _killer,_killer getVariable["realname",name _killer],"187V"],"life_fnc_wantedAdd",false,false] spawn life_fnc_MP;
+		[[getPlayerUID _killer,_killer getVariable["realname",name _killer],"10"],"life_fnc_wantedAdd",false,false] spawn life_fnc_MP;
 		//Get rid of this if you don't want automatic vehicle license removal.
 		if(!local _killer) then {
 			[[2],"life_fnc_removeLicenses",_killer,FALSE] spawn life_fnc_MP;
 		};
 	} else {
-		[[getPlayerUID _killer,_killer getVariable["realname",name _killer],"187"],"life_fnc_wantedAdd",false,false] spawn life_fnc_MP;
+		[[getPlayerUID _killer,_killer getVariable["realname",name _killer],"11"],"life_fnc_wantedAdd",false,false] spawn life_fnc_MP;
 		
 		if(!local _killer) then {
 			[[3],"life_fnc_removeLicenses",_killer,FALSE] spawn life_fnc_MP;

@@ -17,6 +17,7 @@ if(life_action_gathering) exitWith {}; //Action is in use, exit to prevent spamm
 if(life_action_inUse) exitWith {}; //Action is in use, exit to prevent spamming.
 
 life_action_gathering = true;
+
 //Find out what zone we're near
 {
 	if(player distance (getMarkerPos _x) < 30) exitWith {_zone = _x;};

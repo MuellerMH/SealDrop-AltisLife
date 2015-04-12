@@ -11,8 +11,8 @@ if(_item == "") exitWith {};
 
 switch (_item) do
 {
-	case "oilu": {3};
-	case "oilp": {4};
+	case "oilu": {4};
+	case "oilp": {3};
 	case "heroinu": {4};
 	case "heroinp": {3};
 	case "cannabis": {4};
@@ -35,12 +35,12 @@ switch (_item) do
 	case "fuelF": {5};
 	case "money": {0};
 	case "pickaxe": {2};
-	case "copperore": {3};
+	case "copperore": {4};
 	case "ironore": {5};
-	case "copper_r": {4};
+	case "copper_r": {3};
 	case "iron_r": {3};
 	case "sand": {3};
-	case "salt": {5};
+	case "salt": {4};
 	case "salt_r": {3};
 	case "glass": {1};
 	case "diamond": {4};
@@ -48,13 +48,13 @@ switch (_item) do
 	case "cocaine": {4};
 	case "cocainep": {3};
 	case "spikeStrip": {5};
-	case "rock": {3};
-	case "cement": {4};
+	case "rock": {4};
+	case "cement": {3};
 	case "goldbar": {10};
 	case "wine": {4};
 	case "grapes": {3};
-	case "methu": {6};
-	case "methp": {4};
+	case "methu": {4};
+	case "methp": {3};
 	case "battery": {1};
 	case "blastingcharge": {30};
 	case "boltcutter": {10};
@@ -74,7 +74,7 @@ switch (_item) do
 	case "beerp": {4};
 	case "moonshine": {5};
 	case "bottledwhiskey": {5};
-	case "bottledbeer": {5};
+	case "bottledbeer": {4};
 	case "bottledshine": {5};
 	case "bottles": {1};
 	case "puranium": {6};
@@ -87,5 +87,10 @@ switch (_item) do
 	case "kidney": {20};
 	case "scalpel": {2};
 	case "peach": {2};
+	case "roadbarrierfs": {8};
+	case "portablelightd": {10};
+	case "portablelight": {10};
+	case "kegel": {1};
+	case "kegels": {1};
 	default {1};
 };

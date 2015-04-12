@@ -92,6 +92,11 @@ switch (_var) do
     case "life_inv_uranium": {"Uran"}; // Add This
 	case "life_inv_kidney": {"Niere"}; 
 	case "life_inv_scalpel": {"Scalpel"};
+	case "life_inv_roadbarrierfs": {"Straßensperre klein"};
+	case "life_inv_portablelightd": {"tragbare Doppel-Scheinwerfer"};
+	case "life_inv_portablelight": {"tragbare Scheinwerfer"};
+	case "life_inv_kegel": {"Kegel"};
+	case "life_inv_kegels": {"Kegel mit Blinker"};
 	
 	//License Block
 	case "license_civ_driver": {"Führerschein"};

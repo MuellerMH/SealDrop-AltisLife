@@ -29,9 +29,9 @@ switch (_className) do
 	case "B_MRAP_01_F": {140};
 	case "O_MRAP_02_F": {140};
 	case "I_MRAP_03_F": {140};
-	case "B_Heli_Light_01_F": {120};
-	case "O_Heli_Light_02_unarmed_F": {280};
-	case "I_Heli_Transport_02_F": {400};
+	case "B_Heli_Light_01_F": {100};
+	case "O_Heli_Light_02_unarmed_F": {240};
+	case "I_Heli_Transport_02_F": {350};
 	case "C_Rubberboat": {45};
 	case "O_Boat_Armed_01_hmg_F": {75};
 	case "B_G_Boat_Transport_01_F": {45};
@@ -42,12 +42,12 @@ switch (_className) do
 	case "O_Truck_03_covered_F": {400};
 	case "Land_CargoBox_V1_F": {800};
 	case "I_Truck_02_box_F": {500};
-	case "O_Truck_03_device_F": {650};
+	case "O_Truck_03_device_F": {750};
 	case "Land_CargoBox_V1_F": {400};
 	case "Box_IND_Grenades_F": {250};
 	case "B_supplyCrate_F": {250};
 	case "C_Van_01_fuel_F": {250};
 	case "B_Truck_01_covered_F": {480};
-	case "O_Heli_Transport_04_box_F": {550};
+	case "O_Heli_Transport_04_box_F": {450};
 	default {-1};
 };

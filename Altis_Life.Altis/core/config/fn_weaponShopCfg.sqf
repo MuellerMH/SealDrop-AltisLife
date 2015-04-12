@@ -264,13 +264,13 @@ switch(_shop) do
 			{
 				["Mohammed's Waffen Laden",
 					[
-						["arifle_TRG20_F",nil,350000],
+						["arifle_TRG20_F",nil,250000],
 						["arifle_Katiba_F",nil,300000],
-						["srifle_EBR_F",nil,375000],
+						["srifle_EBR_F",nil,675000],
 						["SMG_01_F",nil,100000],
 						["hgun_Pistol_heavy_01_MRD_F",nil,25000],
 						["hgun_P07_F",nil,15000],
-						["srifle_DMR_01_F",nil,300000],
+						["srifle_DMR_01_F",nil,500000],
 						["arifle_SDAR_F",nil,75000],
 						["acc_flashlight",nil,7500],
 						["acc_pointer_IR",nil,15000],
@@ -289,7 +289,7 @@ switch(_shop) do
 						["20Rnd_762x51_Mag","MK18 Magazin",500],
 						["11Rnd_45ACP_Mag",nil,1000],
 						["30Rnd_556x45_Stanag",nil,300],
-						["10Rnd_762x51_Mag","Rahim Magazin",500],
+						["10Rnd_762x54_Mag","Rahim Magazin",500],
 						["30Rnd_65x39_caseless_green",nil,275]
 					]
 				];
@@ -310,7 +310,7 @@ switch(_shop) do
 						["hgun_P07_F",nil,15000],
 						["hgun_Pistol_heavy_02_F",nil,20000],
 						["hgun_ACPC2_F",nil,17500],
-						["hgun_PDW2000_F",nil,30000],
+						["hgun_PDW2000_F",nil,50000],
 						["optic_ACO_grn_smg",nil,2500],
 						["16Rnd_9x21_Mag",nil,25],
 						["9Rnd_45ACP_Mag",nil,45],
@@ -401,7 +401,7 @@ switch(_shop) do
 						["NVGoggles_INDEP",nil,2500],
 						["16Rnd_9x21_Mag",nil,25],
 						["30Rnd_65x39_caseless_green",nil,750],
-						["10Rnd_762x51_Mag",nil,750],
+						["10Rnd_762x54_Mag",nil,750],
 						["20Rnd_762x51_Mag",nil,750],
 						["30Rnd_9x21_Mag",nil,75],
 						["11Rnd_45ACP_Mag",nil,85],

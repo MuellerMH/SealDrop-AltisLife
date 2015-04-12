@@ -43,6 +43,12 @@ life_markers = false;
 life_sitting = false;
 life_firstSpawn = false;
 life_fadeSound = false;
+life_roadbarrierfs = ObjNull;
+life_portablelightd = ObjNull;
+life_portablelight = ObjNull;
+life_kegel = ObjNull;
+life_kegels = ObjNull;
+life_channel_send = true;
 
 
 //Persistent Saving
@@ -208,7 +214,12 @@ life_inv_items =
 	"life_inv_uranium4",
 	"life_inv_uranium",
 	"life_inv_kidney",
-	"life_inv_scalpel"
+	"life_inv_scalpel",
+	"life_inv_roadbarrierfs",
+	"life_inv_portablelightd",
+	"life_inv_portablelight",
+	"life_inv_kegel",
+	"life_inv_kegels"
 ];
 
 //Setup variable inv vars.
@@ -323,7 +334,12 @@ sell_array =
 	["bottles",50],
 	["uranium",10000],
 	["kidney",9000],
-	["scalpel",1000]
+	["scalpel",1000],
+	["roadbarrierfs",250],
+	["portablelightd",250],
+	["portablelight",250],
+	["kegel",250],
+	["kegels",250]
 ];
 __CONST__(sell_array,sell_array);
 
@@ -374,7 +390,12 @@ buy_array =
 	["puranium",1000],
 	["ipuranium",9000],
 	["kidney",15000],
-	["scalpel",7500]
+	["scalpel",7500],
+	["roadbarrierfs",250],
+	["portablelightd",250],
+	["portablelight",250],
+	["kegel",250],
+	["kegels",250]
 ];
 __CONST__(buy_array,buy_array);
 

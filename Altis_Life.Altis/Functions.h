@@ -148,6 +148,11 @@ class Life_Client_Core
 		class sitDown {};
 		class robShops {};
 		class craftAction {};
+		class packuproadbarrierfs {};
+		class packupportablelightd {};
+		class packupportablelight {};
+		class packupkegel {};
+		class packupkegels {};
 	};
 	
 	class Special
@@ -239,6 +244,7 @@ class Life_Client_Core
 		class revokeLicense {};
 		class craft {};
 		class craft_update {};
+		class AAN {};
 	};
 	
 	class Functions
@@ -440,6 +446,11 @@ class Life_Client_Core
 		class useKokain {};
 		class useMarihuana {};
 		class weedSmoke {};
+		class roadbarrierfs {};
+		class portablelightd {};
+		class portablelight {};
+		class kegel {};
+		class kegels {};
 	};
 	
 	class Dialog_Controls
@@ -465,5 +476,7 @@ class Life_Client_Core
 		class safeFix {};
 		class vehicleGarage {};
 		class gangDeposit {};
+		class calldialog {};
+	    class sendChannel {};
 	};
 };

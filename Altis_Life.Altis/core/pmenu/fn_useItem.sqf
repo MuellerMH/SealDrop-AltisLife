@@ -107,6 +107,51 @@ switch (true) do
 		};
 	};
 	
+	case (_item == "roadbarrierfs"):
+    {
+        if(!isNull life_roadbarrierfs) exitWith {hint "Du stellst schon eine Straßensperre!"};
+        if(([false,_item,1] call life_fnc_handleInv)) then
+        {
+            [] spawn life_fnc_roadbarrierfs;
+        };
+    };
+
+    case (_item == "portablelightd"):
+    {
+        if(!isNull life_portablelightd) exitWith {hint "Du stellst schon ein tragbarer Doppel-Scheinwerfer auf!"};
+        if(([false,_item,1] call life_fnc_handleInv)) then
+        {
+            [] spawn life_fnc_portablelightd;
+        };
+    };
+
+    case (_item == "portablelight"):
+    {
+        if(!isNull life_portablelight) exitWith {hint "Du stellst schon ein tragbaren Scheinwerfer auf!"};
+        if(([false,_item,1] call life_fnc_handleInv)) then
+        {
+           [] spawn life_fnc_portablelight;
+        };
+    };
+
+    case (_item == "kegel"):
+    {
+        if(!isNull life_kegel) exitWith {hint "Du stellst schon einen Kegel auf!"};
+        if(([false,_item,1] call life_fnc_handleInv)) then
+        {
+           [] spawn life_fnc_kegel;
+        };
+    };
+
+    case (_item == "kegels"):
+    {
+        if(!isNull life_kegels) exitWith {hint "Du stellst schon einen Kegel mit Blinker auf!"};
+        if(([false,_item,1] call life_fnc_handleInv)) then
+        {
+           [] spawn life_fnc_kegels;
+        };
+    };
+	
 	case (_item == "mauer"):
 	{
 		if(!isNull life_mauer) exitWith {hint "Du stellst schon eine Mauer!"};

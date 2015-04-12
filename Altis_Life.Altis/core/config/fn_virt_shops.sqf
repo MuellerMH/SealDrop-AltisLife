@@ -21,11 +21,11 @@ switch (_shop) do
 	case "iron": {["Altis Industrial Trader",["iron_r","copper_r"]]};
 	case "diamond": {["Diamond Dealer",["diamond","diamondc"]]};
 	case "salt": {["Salt Dealer",["salt_r"]]};
-	case "cop": {["Cop Item Shop",["donuts","coffee","spikeStrip","mauer","battery","painkillers","redgull","defusekit"]]};
+	case "cop": {["Cop Item Shop",["donuts","coffee","spikeStrip","mauer","battery","painkillers","redgull","defusekit","roadbarrierfs","portablelightd","portablelight","kegel","kegels"]]};
 	case "cement": {["Cement Dealer",["cement"]]};
 	case "beer": {["Schnaps Laden",["wine"]]};
 	case "pharmacy": {["Apotheke",["painkillers","morphium","scalpel","kidney"]]};
-	case "medic": {["Arztbedarf",["apple","donuts","coffee","battery","redgull","fuelF"]]};
+	case "medic": {["Arztbedarf",["apple","donuts","coffee","battery","redgull","fuelF","roadbarrierfs","portablelightd","portablelight","kegel","kegels"]]};
 	case "speakeasy": {["Speakeasy's",["bottledbeer","bottledwhiskey","bottledshine"]]};
 	case "bar": {["The Lounge",["bottles","cornmeal"]]};
 	case "uranium": {["Marchand Uranium",["uranium","puranium"]]};
